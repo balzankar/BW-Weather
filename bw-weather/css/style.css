@@ -77,6 +77,6 @@ background: linear-gradient(to left, #C4E0E5, #4CA1AF); /* W3C, IE 10+/ Edge, Fi
 
 footer {
     bottom: 0px !important;
-    position: fixed;
+    position: absolute;
     font-size: 14px;
 }

@@ -1,3 +1,20 @@
+<html>
+
+<head>
+    <title>BW Weather App</title>
+    <link rel="icon" href="bw-weather/img/favicon.png" type="image/png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <link rel="stylesheet" href="bw-weather/css/style.css?v1.3" />
+</head>
+
+<style>
+
+</style>
+
+<body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-transparent fixed-top">
     <img src="bw-weather/img/logo.png" style="height: 50px;">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
