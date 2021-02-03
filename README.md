@@ -1,9 +1,9 @@
-<img src="/bw-weather/logo-dark.png" width="40%" alt="Swift Logo">.
+<img src="/bw-weather/img/logo-dark.png" width="40%" alt="Swift Logo">.
 # BW-Weather
 Simple weather app for Web. Weather Data from OpenWeatherMap  
 
 ## Demo  
-Visit <a href="https://www.balworld.in/projects/bw-weather>Demo Website</a>
+Visit <a href="https://www.balworld.in/projects/bw-weather> Demo Website</a>
 
 ## Features  
 Highly Responsive. based on Bootstrap v4.5.  
