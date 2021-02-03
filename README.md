@@ -3,7 +3,7 @@
 Simple weather app for Web. Weather Data from OpenWeatherMap  
 
 ## Demo  
-Visit <a href="https://www.balworld.in/projects/bw-weather> Demo Website</a>
+Visit [Live Weather App](https://www.balworld.in/projects/bw-weather)
 
 ## Features  
 Highly Responsive. based on Bootstrap v4.5.  
