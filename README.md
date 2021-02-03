@@ -7,8 +7,8 @@ Visit [Live Weather App](https://www.balworld.in/projects/bw-weather)
 
 ## Features  
 Highly Responsive. based on Bootstrap v4.5.  
-Dynamic Weather Data.
-Auto location based on IP Location.
+Dynamic Weather Data.  
+Auto location based on IP Location.  
 Dynamics Weather Data on Input.
 
 More Features adding soon.  
