@@ -1,4 +1,5 @@
-<img src="/bw-weather/img/logo-dark.png" width="40%" alt="Positive Smile Logo">.
+<img src="/bw-weather/img/logo-dark.png" width="40%" alt="BW-Weather Logo">
+
 # BW-Weather
 Simple weather app for Web. Weather Data from OpenWeatherMap  
 
